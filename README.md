@@ -1,29 +1,30 @@
 <h1 align="center">Hi, I'm Idranne Mbah 👋</h1>
 
+![idranne_profile_picture](idranne\20260828_094018 (1) (1).jpg)
+
 <h3 align="center">Software Engineer bridging computational medicine and full-stack development</h3>
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/sandrakevens"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sandra.kevens@mtholyoke.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/B.A._Biochemistry_%26_CS-Mount_Holyoke_'27-1F5F52?style=flat" />
+  <a href="http://www.linkedin.com/in/idranne-naike-mbah-ndum-b9aba62b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:naike24@mtholyoke.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/B.A._Biochemistry_%26_Computer Science-Mount_Holyoke_'27-1F5F52?style=flat" />
 </p>
 
 ---
 
 ### About Me
 
-I'm a rising senior at Mount Holyoke College studying **Biochemistry and Computer Science**
-(GPA 3.90, 3.96 in CS). I build software that sits at the intersection of biology and code —
-from a clinically-tested Parkinson's detection app to bioinformatics pipelines processing
+I'm a senior at Mount Holyoke College studying **Biochemistry and Computer Science**
+(GPA 3.90, 3.96 in CS). I build software that sits at the intersection of biology/medicine and code —from a clinically-tested Parkinson's detection app to bioinformatics pipelines processing
 genomic and multiplex-imaging data at scale.
 
-My research background spans **Columbia's Dept. of Biomedical Informatics**, **Brown's
-ExploreCSR x Google Research Scholar** program, and **Carnegie Mellon's DASIE** fellowship —
-but I'm currently focused on shipping full-stack, production-shaped software as I apply to
-new-grad SWE roles for 2027.
+My research background spans **University of Chicago Summer Lab Data Science REU**, **Columbia's University Dept. of Biomedical Informatics**, **Brown's
+ExploreCSR x Google Research Scholar** program, **Carnegie Mellon's DASIE fellowship**, **Break Through Tech AI/ML Fellowship**, **Development Intern at Yrikka**  —
+but I also have relevant projects that shows core engineering skills, leveraging backend and frontend development
 
-- 🔬 Interests: AI/ML engineering, health-tech, bioinformatics, full-stack development
+- 📚 Relevant Courses: Intro to Programming, Data Structures, Algorithms, Software Design and Development, Computing Systems, Operating Systems, Discrete Mathematics, Human-Robot Interaction, Calculus I-III
+- 🔬 Interests: Software Enginnering, AI/ML engineering, health-tech, computational medicine, full-stack development
 - 🎓 Best DEI Hackathon — HackerHer Hackathon '25, UMass Amherst
 - 🌱 Founder & President, Mount Holyoke BioTech Society
 - 💬 Fluent in English and French
@@ -41,7 +42,8 @@ Mobile app detecting Parkinson's disease from multimodal passive-sensing
 data (audio, gait, typing). Clinically tested with real patients at
 NewYork-Presbyterian Hospital — 75% accuracy distinguishing disease patients.
 
-`Flutter` `Dart` `TensorFlow`
+`Flutter` `Dart` `TensorFlow`, `Keras`, `FlaskAPI`, `Machine Learning and Deep Learning`, `UI/UX`
+<img src="idranne\Screenshot 2026-08-12 195711.png" alt="park-assist" width="320">
 
 </td>
 <td width="50%" valign="top">
@@ -51,6 +53,7 @@ Full-stack retrieval-augmented generation (RAG) assistant that ingests
 PubMed literature and answers questions with citation-grounded responses.
 
 `Python` `FastAPI` `Next.js` `PostgreSQL` `pgvector`
+
 
 </td>
 </tr>
@@ -124,6 +127,6 @@ imagery, using CVAT for annotation and hyperparameter tuning.
 
 ### Let's Connect
 
-📫 sandra.kevens@mtholyoke.edu &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/sandrakevens) &nbsp;|&nbsp; South Hadley, MA
+📫 naike24m@mtholyoke.edu &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/sandrakevens) &nbsp;|&nbsp; South Hadley, MA
 
 <sub>Actively looking for new-grad Software Engineer roles for 2027, especially at the intersection of software and health/life sciences.</sub>
