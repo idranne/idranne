@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Idranne Mbah 👋</h1>
 
-![idranne_profile_picture](idranne\20260828_094018 (1) (1).jpg)
-
 <h2 align="center">Software Engineer bridging computational medicine and full-stack development</h2>
 
 
@@ -47,10 +45,11 @@ My experiences include but are not limited to:
 Worked on engineering an end-to-end Python pipeline evaluating four batch correction strategies combining image normalization and latent-space harmonization on emebeddings from a pretrained pathology foundational model, and built an unsupervised evaluation framework using Leiden-graph clustering  
 Used Kruskal-Wallis statistical test to compare pipeline between variants and identifying latent-space harmonization as being dominaant in reducing batch effects in real biopsies  
 
+![Image]("idranne\20260828_094018 (1) (1).jpg")
+
 <img src="./idranne/Screenshot%202026-09-13%20005840.png" alt="uchicago-poster" width="100%">
 
 [Walkthrough of project] https://www.youtube.com/watch?v=SAqlHXAsPEY
-
 
 `Foundational model UNI`, `Statistical analysis`, `Computational medicine`, `Machine and deep learning`
 
@@ -93,9 +92,11 @@ Applied OOP to implement game state and designed modular components for maintain
 <tr>
 <td width="50%" valign="top">
 
-**[MIT Medicine Hackathon](https://drive.google.com/file/d/1iS4OV4gweAZciNaSuLUCjL0TXGMC7ySs/view?usp=sharing)**  
-Placed in the portable health track where we designed a React interface with a backend, capable of processing information from EHR records of patients using optical character scanner and summarizes patients' information.   
-React interface   
+**[MIT Medicine Hackathon](https://github.com/idranne/MIT-Medicine-Hackathon)**  
+Portable Health Record is a React + Express app for digitizing health vitals: a passport/clinical-chart styled UI lets users capture or upload an EHR photo, which a backend endpoint sends to a vision-capable LLM to extract blood pressure/heart rate/respiration, plus a chatbot for asking questions about records. 
+It runs fully in a "demo mode" with canned responses when no OpenAI API key is set, switching to real answers once one's added. It's a working prototype only — no HIPAA safeguards exist for handling real patient data yet.
+`React`, `JavaScript`, `Node.js`, `Express`, `OpenAI API`
+
 
 </td>
 <td width="50%" valign="top">

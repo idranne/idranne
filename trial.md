@@ -59,7 +59,7 @@ React interface
 </td>
 <td width="50%" valign="top">
 
-**Computer Vision Fine-Tuning (Break Through Tech x Yrikka) (https://github.com/mashcodes10/yrikka-1A)**  
+**[Computer Vision Fine-Tuning (Break Through Tech x Yrikka)](https://github.com/mashcodes10/yrikka-1A)**  
 Worked in a group of 6 to fine-tune a YOLO model to close the gap between synthetic and real-world  
 imagery, using CVAT for annotation and hyperparameter tuning.  
 
@@ -70,7 +70,7 @@ imagery, using CVAT for annotation and hyperparameter tuning.
 <tr>
 <td width="50%" valign="top">
 
-**KhanQuest Website(https://magenta-barking-artist-658.vscodeedu.app/)**  
+**[KhanQuest Website] (https://magenta-barking-artist-658.vscodeedu.app/)**  
 Built a fully functional website using to provide first-hand information on the community-based program (CBO) I cofounded   
 Website features a 3-day multipart information session that highlights main goals of the program   
 Website uses JavaScript for functionality and renders DOM components  
