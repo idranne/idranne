@@ -47,7 +47,7 @@ Worked on engineering an end-to-end Python pipeline evaluating four batch correc
 Used Kruskal-Wallis statistical test to compare pipeline between variants and identifying latent-space harmonization as being dominaant in reducing batch effects in real biopsies  
 
 ![Image](Screenshot%202026-09-13%20005840.png)
-[Project Demo] (https://www.youtube.com/watch?v=SAqlHXAsPEY)
+[Project Demo](https://www.youtube.com/watch?v=SAqlHXAsPEY)
 
 `Foundational model UNI`, `Statistical analysis`, `Computational medicine`, `Machine and deep learning`
 
