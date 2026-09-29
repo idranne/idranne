@@ -45,7 +45,7 @@ My experiences include but are not limited to:
 Worked on engineering an end-to-end Python pipeline evaluating four batch correction strategies combining image normalization and latent-space harmonization on emebeddings from a pretrained pathology foundational model, and built an unsupervised evaluation framework using Leiden-graph clustering  
 Used Kruskal-Wallis statistical test to compare pipeline between variants and identifying latent-space harmonization as being dominaant in reducing batch effects in real biopsies  
 
-![Image](idranne/20260828_094018%20(1)%20(1).jpg)
+![Image](<20260828_094018%20(1)%20(1).jpg>)
 
 
 <img src="./idranne/Screenshot%202026-09-13%20005840.png" alt="uchicago-poster" width="100%">
