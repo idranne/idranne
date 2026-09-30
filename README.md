@@ -4,8 +4,8 @@
 
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/idranne-naike-mbah-ndum-b9aba62b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" width="300"/></a>
-  <a href="mailto:naike24@mtholyoke.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" width="300" /></a>
+  <a href="http://www.linkedin.com/in/idranne-naike-mbah-ndum-b9aba62b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" width="100"/></a>
+  <a href="mailto:naike24@mtholyoke.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" width="100" /></a>
   <img src="https://img.shields.io/badge/B.A._Biochemistry_%26_Computer Science-Mount_Holyoke_'27-1F5F52?style=flat" width="300" />
 </p>
 
@@ -172,11 +172,11 @@ Techniques learned include sliding window, two-pointer technique and list traver
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-[Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 ## Frameworks & Tools
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black width=600)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
