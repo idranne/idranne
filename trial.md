@@ -16,10 +16,11 @@ Used Kruskal-Wallis statistical test to compare pipeline between variants and id
 </td>
 <td width="50%" valign="top">
 
-**[BioSearch AI](https://github.com/sandrakevens/biosearch-ai)**  
+**BioSearch AI**  
 Full-stack retrieval-augmented generation (RAG) assistant that ingests  
 PubMed literature and answers questions with citation-grounded responses.  
 
+## [Project Demo](https://github.com/sandrakevens/biosearch-ai)
 `Python` `FastAPI` `Next.js` `PostgreSQL` `pgvector`
 
 </td>
@@ -81,6 +82,7 @@ Website uses JavaScript for functionality and renders DOM components
 **AI4ALL - Alzheimer's Detection ML Projects(https://github.com/idranne/Alzheimer-s-AI4All-/tree/main)**  
 Built in a team of 4, a machine language model that monitors and detect Alzheimer's detect using handwritten data  
 Web app was deployed on Streamlit and presented at the Harvard WeCode'25 and AI4ALL Research Symposium  
+## [Project Demo](https://ai4all.streamlit.app/)
 
 `Computational neuroscience`, `AI/ML`, `UI/UX`,  
 
