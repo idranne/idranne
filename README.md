@@ -6,7 +6,7 @@
 <p align="center">
   <a href="http://www.linkedin.com/in/idranne-naike-mbah-ndum-b9aba62b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" width="100"/></a>
   <a href="mailto:naike24@mtholyoke.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" width="100" /></a>
-  <img src="https://img.shields.io/badge/B.A._Biochemistry_%26_Computer Science-Mount_Holyoke_'27-1F5F52?style=flat" style="width: 100px; height: auto;" />
+  <img src="https://img.shields.io/badge/B.A._Biochemistry_%26_Computer Science-Mount_Holyoke_'27-1F5F52?style=flat" style="width: 300px; height: auto;" />
 </p>
 
 ---
@@ -113,14 +113,14 @@ imagery, using CVAT for annotation and hyperparameter tuning.
 <tr>
 <td width="50%" valign="top">
 
-## [KhanQuest Website] (https://magenta-barking-artist-658.vscodeedu.app/)
+## [KhanQuest Website](https://magenta-barking-artist-658.vscodeedu.app/)
 - Built a fully functional website using to provide first-hand information on the community-based program (CBO) I cofounded andbbuilt while taking CodePath 101
 - Website features a 3-day multipart information session that highlights main goals of the program. Website uses JavaScript for functionality and renders DOM components  
 
 </td>
 <td width="50%" valign="top">
 
-## [AI4ALL - Alzheimer's Detection ML Projects] (https://github.com/idranne/Alzheimer-s-AI4All-/tree/main)
+## [AI4ALL - Alzheimer's Detection ML Projects](https://github.com/idranne/Alzheimer-s-AI4All-/tree/main)
 Built in a team of 4, a machine language model that monitors and detect Alzheimer's detect using handwritten data  
 Web app was deployed on Streamlit and presented at the Harvard WeCode'25 and AI4ALL Research Symposium  
 ## [Project Demo](https://ai4all.streamlit.app/)
