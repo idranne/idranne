@@ -4,9 +4,9 @@
 
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/idranne-naike-mbah-ndum-b9aba62b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" width="600"/></a>
-  <a href="mailto:naike24@mtholyoke.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" width="600" /></a>
-  <img src="https://img.shields.io/badge/B.A._Biochemistry_%26_Computer Science-Mount_Holyoke_'27-1F5F52?style=flat" width="600" />
+  <a href="http://www.linkedin.com/in/idranne-naike-mbah-ndum-b9aba62b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" width="300"/></a>
+  <a href="mailto:naike24@mtholyoke.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" width="300" /></a>
+  <img src="https://img.shields.io/badge/B.A._Biochemistry_%26_Computer Science-Mount_Holyoke_'27-1F5F52?style=flat" width="300" />
 </p>
 
 ---
@@ -25,10 +25,12 @@ My experiences include but are not limited to:
 - **Development Intern at Yrikka** 
 
 
- ### **📚 Relevant Courses**: Intro to Programming, Data Structures, Algorithms, Software Design and Development, Computing Systems, Operating Systems, Discrete Mathematics, Human-Robot Interaction, Calculus I-III
+ ### 📚 Relevant Courses
+ - Intro to Programming, Data Structures, Algorithms, Software Design and Development, Computing Systems, Operating Systems, Discrete Mathematics, Human-Robot Interaction, Calculus I-III
 
 
- ### **🔬 Interests**: Software Enginnering, AI/ML engineering, health-tech, computational medicine, full-stack development
+ ### 🔬 Interests:
+- Software Enginnering, AI/ML engineering, health-tech, computational medicine, full-stack development
 - **🎓 Best DEI Hackathon** — HackerHer Hackathon '25, UMass Amherst
 - **🌱 Founder & President** - Mount Holyoke BioTech Society
 - **Languages**💬 Fluent in English and French and intermediate in Spanish
@@ -67,7 +69,7 @@ My experiences include but are not limited to:
 <tr>
 <td width="50%" valign="top">
 
-## **[ParkAssist](https://github.com/idranne/Columbia-DBMI-)**  
+## [ParkAssist](https://github.com/idranne/Columbia-DBMI-)
 - Mobile app detecting Parkinson's disease from multimodal passive-sensing  
 data (audio, gait, typing). Clinically tested with real patients at  
 NewYork-Presbyterian Hospital — 75% accuracy distinguishing disease patients.  
@@ -80,7 +82,7 @@ NewYork-Presbyterian Hospital — 75% accuracy distinguishing disease patients.
 </td>
 <td width="50%" valign="top">
 
-**[Wordle (Java)](https://github.com/mhc-cs225-fall25/wordle-the-goats)**  
+## [Wordle (Java)](https://github.com/mhc-cs225-fall25/wordle-the-goats)
 - Desktop replica of the NYT Wordle built from scratch — word validation,  
 color-matching feedback, keyboard events, and full game-state management.  
 Applied OOP to implement game state and designed modular components for maintainance and scalability  
@@ -92,7 +94,7 @@ Applied OOP to implement game state and designed modular components for maintain
 <tr>
 <td width="50%" valign="top">
 
-**[MIT Medicine Hackathon](https://github.com/idranne/MIT-Medicine-Hackathon)**  
+## [MIT Medicine Hackathon](https://github.com/idranne/MIT-Medicine-Hackathon)
 - Portable Health Record is a React + Express app for digitizing health vitals: a passport/clinical-chart styled UI lets users capture or upload an EHR photo, which a backend endpoint sends to a vision-capable LLM to extract blood pressure/heart rate/respiration, plus a chatbot for asking questions about records. 
 - It runs fully in a "demo mode" with canned responses when no OpenAI API key is set, switching to real answers once one's added. It's a working prototype only — no HIPAA safeguards exist for handling real patient data yet.
 `React`, `JavaScript`, `Node.js`, `Express`, `OpenAI API`
@@ -101,7 +103,7 @@ Applied OOP to implement game state and designed modular components for maintain
 </td>
 <td width="50%" valign="top">
 
-**Computer Vision Fine-Tuning (Break Through Tech x Yrikka) (https://github.com/mashcodes10/yrikka-1A)**  
+## [Computer Vision Fine-Tuning (Break Through Tech x Yrikka] (https://github.com/mashcodes10/yrikka-1A)**  
 Worked in a group of 6 to fine-tune a YOLO model to close the gap between synthetic and real-world  
 imagery, using CVAT for annotation and hyperparameter tuning.  
 `PyTorch` `YOLO` `CVAT`, `Foundational model`  
@@ -111,14 +113,14 @@ imagery, using CVAT for annotation and hyperparameter tuning.
 <tr>
 <td width="50%" valign="top">
 
-**KhanQuest Website(https://magenta-barking-artist-658.vscodeedu.app/)**  
+## [KhanQuest Website] (https://magenta-barking-artist-658.vscodeedu.app/)
 - Built a fully functional website using to provide first-hand information on the community-based program (CBO) I cofounded andbbuilt while taking CodePath 101
 - Website features a 3-day multipart information session that highlights main goals of the program. Website uses JavaScript for functionality and renders DOM components  
 
 </td>
 <td width="50%" valign="top">
 
-**AI4ALL - Alzheimer's Detection ML Projects(https://github.com/idranne/Alzheimer-s-AI4All-/tree/main)**  
+## [AI4ALL - Alzheimer's Detection ML Projects] (https://github.com/idranne/Alzheimer-s-AI4All-/tree/main)
 Built in a team of 4, a machine language model that monitors and detect Alzheimer's detect using handwritten data  
 Web app was deployed on Streamlit and presented at the Harvard WeCode'25 and AI4ALL Research Symposium  
 ## [Project Demo](https://ai4all.streamlit.app/)
@@ -131,27 +133,27 @@ Web app was deployed on Streamlit and presented at the Harvard WeCode'25 and AI4
 
 ---
 
-### CERTIFICATIONS, HACKATHONS AND PROFESSIONAL CREDENTIALS
+## CERTIFICATIONS, HACKATHONS AND PROFESSIONAL CREDENTIALS
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**[CodePath Introduction to Web Development](https://drive.google.com/file/d/1JsutIrOjf-DK9DJNxXnGqJNL_l_cK9NC/view?usp=sharing)**  
+### [CodePath Introduction to Web Development](https://drive.google.com/file/d/1JsutIrOjf-DK9DJNxXnGqJNL_l_cK9NC/view?usp=sharing)  
 Completed an 8-week course offered by CodePath focusing on the basics of web development   
 Competencies acquired include HTML, CSS, JavaScript, Reactand web functionality (DOM)  
 
 </td>
 <td width="33%" valign="top">
 
-**[CodePath Introduction to Technical Interview Prep - TIP101](https://drive.google.com/file/d/1yBimeaeA1p95BryjzWRGjs4RPyhDoDzm/view?usp=sharing)**  
+### [CodePath Introduction to Technical Interview Prep - TIP101](https://drive.google.com/file/d/1yBimeaeA1p95BryjzWRGjs4RPyhDoDzm/view?usp=sharing) 
 Completed a 10-week course offered by CodePath focusing on technical interviews  
 Concepts covered include data structures such as list, strings, linked lists, dictionaries  
 
 </td>
 <td width="33%" valign="top">
 
-**[CodePath Intermediate Technical Interview - TIP102](https://drive.google.com/file/d/1n1YKXR7WbUQteNobPDbu97xtfIH_ZSwI/view?usp=sharing)**  
+### [CodePath Intermediate Technical Interview - TIP102](https://drive.google.com/file/d/1n1YKXR7WbUQteNobPDbu97xtfIH_ZSwI/view?usp=sharing)  
 Completed a 10-week course focused on intermediate technical interview skills  
 Concepts convered include advanced topics such as binary trees, dynamic programming, linked lists,  
 Techniques learned include sliding window, two-pointer technique and list traversals  
@@ -161,19 +163,18 @@ Techniques learned include sliding window, two-pointer technique and list traver
 </table>
 
 
+## SKILLS
 
-### SKILLS
+# Languages
 
-**Languages**
+## ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+## ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+## ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+## ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+## ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-# **Frameworks & Tools**
+# Frameworks & Tools
 
 ## ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ## ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
