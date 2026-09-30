@@ -6,7 +6,7 @@
 <p align="center">
   <a href="http://www.linkedin.com/in/idranne-naike-mbah-ndum-b9aba62b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" width="100"/></a>
   <a href="mailto:naike24@mtholyoke.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" width="100" /></a>
-  <img src="https://img.shields.io/badge/B.A._Biochemistry_%26_Computer Science-Mount_Holyoke_'27-1F5F52?style=flat" style="width: 300px; height: auto;" />
+  <img src="https://img.shields.io/badge/B.A._Biochemistry_%26_Computer Science-Mount_Holyoke_'27-1F5F52?style=flat" style="width: 400px; />
 </p>
 
 ---
